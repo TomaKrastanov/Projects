@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry Prototype.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry_Prototype.Display.resources
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry_Prototype.Properties.Resources.resources
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry Prototype.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Industry Prototype\bin\Debug\Industry Prototype.exe.config
+C:\Users\Admin\source\repos\Industry Prototype\bin\Debug\Industry Prototype.exe
+C:\Users\Admin\source\repos\Industry Prototype\bin\Debug\Industry Prototype.pdb
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry Prototype.exe
+C:\Users\Admin\source\repos\Industry Prototype\obj\Debug\Industry Prototype.pdb

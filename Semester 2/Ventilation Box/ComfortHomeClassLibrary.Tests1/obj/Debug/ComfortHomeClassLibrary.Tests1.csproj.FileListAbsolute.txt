@@ -1,0 +1,67 @@
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csprojAssemblyReference.cache
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CopyComplete
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csprojAssemblyReference.cache
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CopyComplete
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csprojAssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CopyComplete
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ramir\OneDrive\Desktop\final ventilation\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.Tests1.pdb
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csprojAssemblyReference.cache
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.csproj.CopyComplete
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.dll
+C:\Users\ifion\Desktop\VentilationBoxFinal\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary.Tests1\obj\Debug\ComfortHomeClassLibrary.Tests1.pdb

@@ -1,0 +1,11 @@
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.dll
+C:\Users\ifion\Desktop\VentilationBoxY\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\bin\Debug\ComfortHomeClassLibrary.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\bin\Debug\ComfortHomeClassLibrary.pdb
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.dll
+C:\Users\Admin\git\ventilation-system-group-5\Ventilation Box\ComfortHomeClassLibrary\obj\Debug\ComfortHomeClassLibrary.pdb
